@@ -8,14 +8,7 @@ Automated crypto trading bot that trades futures on Binance.
 ## Trading Strategy
 
 The bot trades a strategy called the ['TalonSniper'](https://www.tradingview.com/script/Kt8v4HcD-Talon-Sniper-v1/). 
-It can be modified to take your own stragies.
-
-
-### Why this strategy?
-
-I chose the strategy as a demonstration strategy. I came across it while browsing trading view. On the surface the strategy seems to find points 
-where trends can be considered "confirmed". The strategy was reimplemented by looking at the code in the trading view pine editor and then recreating 
-it in python. This can be found in the trading_signal() function of the bot_functions.py file.
+It can be modified to execute your own stragies.
 
 ### Heikin Ashi Candles
 
