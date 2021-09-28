@@ -1,0 +1,8 @@
+{
+	"market": "ETHUSDT",
+	"leverage": "10",
+	"trading_periods": "1m,5m,15m",
+	"margin_type": "ISOLATED",
+	"trailing_percentage": "2.0",
+	"api_url" : "https://fapi.binance.com/"
+}
